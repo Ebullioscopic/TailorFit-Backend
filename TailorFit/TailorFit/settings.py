@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "body_measurements",
     "rest_framework",
+    "virtual_tryon",
 ]
 
 MEDIA_URL = '/media/'
